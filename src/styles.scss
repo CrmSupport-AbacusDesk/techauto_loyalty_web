@@ -8614,3 +8614,26 @@ h2.hed_mr {
 .prnt_prt {
     height: 200px !important;
 }
+
+.ic_prt {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.qr_img img {
+    width: 80px !important;
+    height: 70px !important;
+    margin-right: 12px !important;
+    // margin-top: 35px !important;
+    // margin-left: 5px !important;
+}
+
+
+
+.aclass {
+    text-align: center !important;
+}
+
+.prt_txt {
+    text-align: center;
+}
